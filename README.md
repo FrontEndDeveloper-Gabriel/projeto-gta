@@ -1,6 +1,6 @@
 # PROJETO DE SITE - GTA V E ONLINE
 
-# <h3>Introdução: Com o intuito de por em prática minhas experiências obtidas através de cursos de Desevolvimento Web, tive como inspiração de tema o jogo GTA V e Online.
+# <h3>Introdução: Com o intuito de por em prática minhas experiências adquiridas através de cursos de Desevolvimento Web, tive como inspiração de tema o jogo GTA V e Online.
 Espero que gostem! ;)</h3>
 
 # <h4>Requisitos: <br>

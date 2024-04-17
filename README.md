@@ -5,6 +5,6 @@ Com o intuito de por em prática minhas experiências adquiridas através de cur
 Espero que gostem! ;)
 
 # <h3>Requisitos: <br>
-º Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
-º Link de acesso: <strong>https://fullstackdeveloper-gabriel.github.io/projeto-gta/</strong>
+● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
+● Link de acesso: <strong>https://fullstackdeveloper-gabriel.github.io/projeto-gta/</strong>
 </h3>

@@ -1,7 +1,7 @@
 # PROJETO DE SITE - GTA V E ONLINE 🚔🏍🚁
 
 <h3>Introdução</h3> 
-Com o intuito de por em prática minhas experiências adquiridas através de cursos de Desevolvimento Web, este Website tem como tema o jogo GTA V e Online. <br>
+Com o intuito de por em prática minhas experiências adquiridas através de cursos de Desenvolvimento Web, este Website tem como tema o jogo GTA V e Online. <br>
 Espero que gostem! ;)
 
 # <h3>Requisitos: <br>

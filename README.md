@@ -1,10 +1,35 @@
-# PROJETO DE SITE - GTA V E ONLINE 🚔🏍🚁
+# 💻 GTA V & ONLINE
 
-<h3>Introdução</h3> 
-Com o intuito de por em prática minhas experiências adquiridas através de cursos de Desenvolvimento Web, este Website tem como tema o jogo GTA V e Online. <br>
-Espero que gostem! ;)
+<br>
 
-# <h3>Requisitos: <br>
-● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
-● Link de acesso: <strong>https://frontenddeveloper-gabriel.github.io/projeto-gta/</strong>
-</h3>
+## 📖 About
+```ascii
+> A website project developed to put into practice my skills acquired through Web Development courses.
+  The theme of this project is the game GTA V and GTA Online.
+```
+
+<br>
+
+## 📌 Requeriments
+ ● Accessible in browsers such as **Chrome, Edge, Firefox,** among others; <br>
+ ● Access link: **https://projeto-gtaa.netlify.app/**
+ 
+<br>
+
+## 🛠️ Tech Stack
+
+[![Stack](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+<br>
+
+---
+<div align = "center">
+<img src = "/give_a_star.png" width = "594" height = "168">
+</div>
+
+<br>
+
+<div align = "center">
+ Created by <a href = "https://github.com/FrontEndDeveloper-Gabriel/"> Gabriel Ribeiro</a> 👨‍💻
+</div>
+
